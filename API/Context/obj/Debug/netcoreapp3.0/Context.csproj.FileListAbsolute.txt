@@ -1,0 +1,13 @@
+C:\Project\API Practise\1\API1\Context\bin\Debug\netcoreapp3.0\Context.deps.json
+C:\Project\API Practise\1\API1\Context\bin\Debug\netcoreapp3.0\Context.dll
+C:\Project\API Practise\1\API1\Context\obj\Debug\netcoreapp3.0\Context.csprojAssemblyReference.cache
+C:\Project\API Practise\1\API1\Context\obj\Debug\netcoreapp3.0\Context.AssemblyInfoInputs.cache
+C:\Project\API Practise\1\API1\Context\obj\Debug\netcoreapp3.0\Context.AssemblyInfo.cs
+C:\Project\API Practise\1\API1\Context\bin\Debug\netcoreapp3.0\ObjectLibrary.dll
+C:\Project\API Practise\1\API1\Context\bin\Debug\netcoreapp3.0\Context.runtimeconfig.json
+C:\Project\API Practise\1\API1\Context\bin\Debug\netcoreapp3.0\Context.runtimeconfig.dev.json
+C:\Project\API Practise\1\API1\Context\bin\Debug\netcoreapp3.0\Context.pdb
+C:\Project\API Practise\1\API1\Context\bin\Debug\netcoreapp3.0\ObjectLibrary.pdb
+C:\Project\API Practise\1\API1\Context\obj\Debug\netcoreapp3.0\Context.csproj.CopyComplete
+C:\Project\API Practise\1\API1\Context\obj\Debug\netcoreapp3.0\Context.dll
+C:\Project\API Practise\1\API1\Context\obj\Debug\netcoreapp3.0\Context.pdb
