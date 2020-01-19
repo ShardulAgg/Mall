@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project\\API Practise\\1\\API1\\Models\\Models.csproj": {}
+    "C:\\Project\\API Practise\\1\\API\\Models\\Models.csproj": {}
   },
   "projects": {
-    "C:\\Project\\API Practise\\1\\API1\\Models\\Models.csproj": {
+    "C:\\Project\\API Practise\\1\\API\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\API Practise\\1\\API1\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Project\\API Practise\\1\\API\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Project\\API Practise\\1\\API1\\Models\\Models.csproj",
+        "projectPath": "C:\\Project\\API Practise\\1\\API\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\SLAGGARWAL\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\API Practise\\1\\API1\\Models\\obj\\",
+        "outputPath": "C:\\Project\\API Practise\\1\\API\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

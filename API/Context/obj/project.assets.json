@@ -5096,11 +5096,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Project\\API Practise\\1\\API1\\Context\\Context.csproj",
+      "projectUniqueName": "C:\\Project\\API Practise\\1\\API\\Context\\Context.csproj",
       "projectName": "Context",
-      "projectPath": "C:\\Project\\API Practise\\1\\API1\\Context\\Context.csproj",
+      "projectPath": "C:\\Project\\API Practise\\1\\API\\Context\\Context.csproj",
       "packagesPath": "C:\\Users\\SLAGGARWAL\\.nuget\\packages\\",
-      "outputPath": "C:\\Project\\API Practise\\1\\API1\\Context\\obj\\",
+      "outputPath": "C:\\Project\\API Practise\\1\\API\\Context\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5121,8 +5121,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Project\\API Practise\\1\\API1\\ObjectLibrary\\ObjectLibrary.csproj": {
-              "projectPath": "C:\\Project\\API Practise\\1\\API1\\ObjectLibrary\\ObjectLibrary.csproj"
+            "C:\\Project\\API Practise\\1\\API\\ObjectLibrary\\ObjectLibrary.csproj": {
+              "projectPath": "C:\\Project\\API Practise\\1\\API\\ObjectLibrary\\ObjectLibrary.csproj"
             }
           }
         }
