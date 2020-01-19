@@ -1,8 +1,0 @@
-C:\Project\API Practise\1\API1\ObjectLibrary\bin\Debug\netcoreapp3.0\ObjectLibrary.deps.json
-C:\Project\API Practise\1\API1\ObjectLibrary\bin\Debug\netcoreapp3.0\ObjectLibrary.dll
-C:\Project\API Practise\1\API1\ObjectLibrary\bin\Debug\netcoreapp3.0\ObjectLibrary.pdb
-C:\Project\API Practise\1\API1\ObjectLibrary\obj\Debug\netcoreapp3.0\ObjectLibrary.csprojAssemblyReference.cache
-C:\Project\API Practise\1\API1\ObjectLibrary\obj\Debug\netcoreapp3.0\ObjectLibrary.AssemblyInfoInputs.cache
-C:\Project\API Practise\1\API1\ObjectLibrary\obj\Debug\netcoreapp3.0\ObjectLibrary.AssemblyInfo.cs
-C:\Project\API Practise\1\API1\ObjectLibrary\obj\Debug\netcoreapp3.0\ObjectLibrary.dll
-C:\Project\API Practise\1\API1\ObjectLibrary\obj\Debug\netcoreapp3.0\ObjectLibrary.pdb
